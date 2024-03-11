@@ -1,0 +1,9 @@
+Outstanding
+- Splash screen & app icon --- done
+- Promodo
+    - show local notifications when state changes - done
+    - play sound when state changes - done
+ - Unit testing
+ - Settings page (theme , font and settngs value) - done
+ - Tablet view - done
+ - ReadMe - done
